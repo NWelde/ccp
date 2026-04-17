@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# Data (too large for GitHub — download separately)
+data/
+
+# Output
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Zone identifiers (Windows/WSL)
+*.Zone.Identifier
+*:Zone.Identifier
+
+# IDE
+.vscode/
+.idea/
